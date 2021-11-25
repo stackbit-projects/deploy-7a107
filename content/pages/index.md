@@ -13,10 +13,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
       - label: Learn more
         altText: Learn more
         url: /
@@ -26,6 +22,10 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get Started
+        url: /
+        style: primary
       - type: Button
         label: Learn More
         url: /
